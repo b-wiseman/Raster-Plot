@@ -1,0 +1,37 @@
+
+HYPOTHESIS:
+Ozone in the atmosphere has depleted since 2005.
+
+
+
+
+DATA:
+
+
+
+
+
+NOTES:
+juxtaposition works well for rastors as they would not work if layered on top of one antoher
+- it is also easy to compare areas of interest between two maps
+
+The visuals show that the ozone layer hasn't nessesarily depleted, but instead seems to have 
+been distributed across the globe more evenly. The dense spot south of Australia has thinned 
+while the rest of teh globe has thickened. The "Ozone hole" over Antartica has also shurnk in size.
+
+
+
+COLOR CHOICE:
+ 
+I noticed when using the opacity slider that the opacity really affects your ability to compare colors on the map to the scale.
+By default the opacity was set to .5 which made it quite difficult to see the continent shiluetes behind the colors. To solve this 
+I reduced the default opacity to .45 and kept the option to change the opacity so you may set it to your desire. Turning the opacity 
+up to 1.0 will result in colors being represented 1:1 to the scale. Vega offers no way to set opacity of colors on the scale itself. 
+
+Green
+
+
+
+
+
+
